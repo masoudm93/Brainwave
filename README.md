@@ -9,7 +9,6 @@
 ![Projectshots](Projectshots/brainwave.png)
 <br/>
 
-
 ## Technologies
 
 <p align="center">
@@ -29,7 +28,6 @@
 - How to use
 - Roadmap
 
-
   <br />
 
 ## Quick Start
@@ -45,7 +43,7 @@ $ npm install
 Use the following command to run the app in your localhost.
 
 ```
-npm start
+npm run dev
 ```
 
 ## Contact
